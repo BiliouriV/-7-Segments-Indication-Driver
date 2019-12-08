@@ -1,4 +1,4 @@
-# -7-Segments-Indication-Driver
+# 7 Segments Indication Driver
 by Viktoria Biliouri
 
 Creation of a 7-Segments Indication Driver for FPGA SPARTAN 3 console ,on ISE Design Suite (Verilog). 
