@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: University of Thessaly
+// Engineer: Viktoria Biliouri
 // 
 // Create Date:    23:49:16 10/21/2018 
 // Design Name: 
