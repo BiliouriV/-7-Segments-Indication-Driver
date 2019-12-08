@@ -1,3 +1,6 @@
+//CONSTRAINTS - Mapping of registers with the 
+//components of the SPARTAN 3 FPGA console
+
 NET clk LOC = T9;
 NET an3 LOC = E13;
 NET an2 LOC = F14;
