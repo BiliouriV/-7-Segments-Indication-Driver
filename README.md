@@ -1,4 +1,5 @@
 # -7-Segments-Indication-Driver
+by Viktoria Biliouri
 Creation of a 7-Segments Indication Driver for FPGA SPARTAN 3 console ,on ISE Design Suite (Verilog). 
 
 The following verilog files, compose the full process for the creation pf a 7-segment indication driver.
