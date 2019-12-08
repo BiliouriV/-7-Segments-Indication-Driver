@@ -1,8 +1,8 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
+// Company: University of Thessaly
+// Engineer: Viktoria Biliouri
 //
 // Create Date:   20:28:49 10/23/2018
 // Design Name:   FourDigitLEDdriver
@@ -22,7 +22,7 @@
 // 
 ////////////////////////////////////////////////////////////////////////////////
 
-module testbench_partD;
+module testbench;
 
 	// Inputs
 	reg reset;
